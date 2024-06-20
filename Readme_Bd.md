@@ -9,9 +9,9 @@ output:
 
 [Si quieres saber mas información sobre el hongo patogeno *Bd* visita ](http://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.109124)
 
-## ![Imagen sobre *Batrachochytrium dendrobatidis* bajo el microscopio ](https://www.mdpi.com/jof/jof-06-00234/article_deploy/html/images/jof-06-00234-g001.png)  
+![Imagen sobre *Batrachochytrium dendrobatidis* bajo el microscopio ](https://www.mdpi.com/jof/jof-06-00234/article_deploy/html/images/jof-06-00234-g001.png)  
 
-## ![Imagen sobre proceso infectivo de *Batrachochytrium dendrobatidis*  ](https://www.habitatadvocate.com.au/wp-content/uploads/2012/10/8103653_orig.jpg) 
+![Imagen sobre proceso infectivo de *Batrachochytrium dendrobatidis*  ](https://www.habitatadvocate.com.au/wp-content/uploads/2012/10/8103653_orig.jpg) 
 
 ### Video sobre *Batrachochytrium dendrobatidis*:\   
 <iframe src="https://www.youtube.com/embed/-GAIOpDYp44?si=TqFcz97g_oezq56J"data-external= "1" width="560" height="315"> </iframe> 
